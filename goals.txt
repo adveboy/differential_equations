@@ -1,0 +1,29 @@
+--------------------------------------------------------
+	- create library using matlab and c++ to solve differential equations and partial differential equations (can be shown in resume as well)
+17th july:
+	- implement euler method & backward euler method (matlab) (!!!finish anyway)
+18th july:
+	- finish and analyse euler method
+	- runge-kutta
+--------------------------------------------------------	
+20th july:
+	- general runge-kutta method (read through and implement in matlab first)
+	- implicit runge-kutta method
+--------------------------------------------------------
+21th july:
+	- solve partial differential equation using 2 different methods
+--------------------------------------------------------
+	so do everything to add a lot of buzzwords to CV:
+		- C++, python, matlab, machine learning, partial differential equations,
+		valuation methods, etc etc, trend following etc
+	real skills to acquire: c++ in depth, matlab
+	understand Ito formula and implement it in C++
+--------------------------------------------------------
+	understanding math method
+	implementation of the math method
+	matlab, python, c++
+--------------------------------------------------------	
+	* by 25th july master implementing the PDEs in the c++ code efficiently
+--------------------------------------------------------	
+	* stack task: build model for blackjack game
+--------------------------------------------------------	
