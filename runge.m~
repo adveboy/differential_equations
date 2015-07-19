@@ -12,4 +12,3 @@ function E = runge(f, a, b, ya, M)
     end
     E = [T', Y'];
 end
-
